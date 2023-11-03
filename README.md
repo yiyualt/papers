@@ -104,15 +104,15 @@ This repository contains links to the main conference:
 <li>21: https://dblp.org/db/conf/acl/acl2021-1.html</li>
 <li>20: https://dblp.org/db/conf/acl/acl2020.html</li>
 <li>19: https://dblp.org/db/conf/acl/acl2019-1.html</li>
-<li>18</li>
-<li>17</li>
-<li>16</li>
-<li>15</li>
-<li>14</li>
-<li>13</li>
-<li>12</li>
-<li>11</li>
-<li>10</li>
+<li>18: https://dblp.org/db/conf/acl/acl2018-1.html</li>
+<li>17: https://dblp.org/db/conf/acl/acl2017-1.html</li>
+<li>16: https://dblp.org/db/conf/acl/acl2016-1.html</li>
+<li>15: https://dblp.org/db/conf/acl/acl2015-1.html</li>
+<li>14: https://dblp.org/db/conf/acl/acl2014-1.html</li>
+<li>13: https://dblp.org/db/conf/acl/acl2013-1.html</li>
+<li>12: https://dblp.org/db/conf/acl/acl2012-1.html</li>
+<li>11: https://dblp.org/db/conf/acl/acl2011.html</li>
+<li>10: https://dblp.org/db/conf/acl/acl2010.html</li>
 </ul>
 </details>
 
@@ -120,20 +120,20 @@ This repository contains links to the main conference:
 <details>
 <summary>EMNLP</summary>
 <ul>
-<li>23</li>
-<li>22</li>
-<li>21</li>
-<li>20</li>
-<li>19</li>
-<li>18</li>
-<li>17</li>
-<li>16</li>
-<li>15</li>
-<li>14</li>
-<li>13</li>
-<li>12</li>
-<li>11</li>
-<li>10</li>
+<li>23: https://dblp.org/db/conf/emnlp/emnlp2023.html</li>
+<li>22: https://dblp.org/db/conf/emnlp/emnlp2022.html</li>
+<li>21: https://dblp.org/db/conf/emnlp/emnlp2021.html</li>
+<li>20: https://dblp.org/db/conf/emnlp/emnlp2020.html</li>
+<li>19: https://dblp.org/db/conf/emnlp/emnlp2019.html</li>
+<li>18: https://dblp.org/db/conf/emnlp/emnlp2018.html</li>
+<li>17: https://dblp.org/db/conf/emnlp/emnlp2017.html</li>
+<li>16: https://dblp.org/db/conf/emnlp/emnlp2016.html</li>
+<li>15: https://dblp.org/db/conf/emnlp/emnlp2015.html</li>
+<li>14: https://dblp.org/db/conf/emnlp/emnlp2014.html</li>
+<li>13: https://dblp.org/db/conf/emnlp/emnlp2013.html</li>
+<li>12: https://dblp.org/db/conf/emnlp/emnlp2012.html</li>
+<li>11: https://dblp.org/db/conf/emnlp/emnlp2011.html</li>
+<li>10: https://dblp.org/db/conf/emnlp/emnlp2010.html</li>
 </ul>
 </details>
 
