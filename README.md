@@ -41,14 +41,7 @@ This repository contains links to the main conference:
 <li>ACL 21</li>
 </ul>
 </details>
-<details><summary>EMNLP</summary>
-<ul>
-<li>EMNLP 23</li>
-<li>EMNLP 22</li>
-<li>EMNLP 21</li>
-</ul>
-</details>
-<!-- You can continue adding more sub-conferences for NLP -->
+<!-- Continue with other conferences -->
 </details>
 
 <details>
@@ -60,22 +53,9 @@ This repository contains links to the main conference:
 <li>NeurIPS 21</li>
 </ul>
 </details>
-<details><summary>ICML</summary>
-<ul>
-<li>ICML 23</li>
-<li>ICML 22</li>
-<li>ICML 21</li>
-</ul>
+<!-- Continue with other conferences -->
 </details>
-<details><summary>ICLR</summary>
-<ul>
-<li>ICLR 23</li>
-<li>ICLR 22</li>
-<li>ICLR 21</li>
-</ul>
-</details>
-<!-- You can continue adding more sub-conferences for ML -->
-</details>
+
 
 
 
