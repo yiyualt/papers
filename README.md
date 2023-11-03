@@ -1,4 +1,30 @@
-This repository contains links to the main conference
+This repository contains links to the main conference:
+
+<details>
+<summary>IR</summary>
+<ul>
+<li>SIGIR 23</li>
+<li>SIGIR 22</li>
+</ul>
+</details>
+
+<details>
+<summary>NLP</summary>
+<ul>
+<li>ACL 23</li>
+<li>ACL 22</li>
+</ul>
+</details>
+
+<details>
+<summary>ML</summary>
+<ul>
+<li>NeurIPS 23</li>
+<li>ICML 22</li>
+</ul>
+</details>
+
+
 
 SIGIR 23: https://dblp.org/db/conf/sigir/sigir2023.html
 
