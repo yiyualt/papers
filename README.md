@@ -140,80 +140,73 @@ This repository contains links to the main conference:
 <details>
 <summary>NAACL</summary>
 <ul>
-<li>23</li>
-<li>22</li>
-<li>21</li>
-<li>20</li>
-<li>19</li>
-<li>18</li>
-<li>17</li>
-<li>16</li>
-<li>15</li>
-<li>14</li>
-<li>13</li>
-<li>12</li>
-<li>11</li>
-<li>10</li>
+<li>2022: https://dblp.org/db/conf/naacl/naacl2022.html</li>
+<li>2021: https://dblp.org/db/conf/naacl/naacl2021.html</li>
+<li>2019: https://dblp.org/db/conf/naacl/naacl2019.html</li>
+<li>2018: https://dblp.org/db/conf/naacl/naacl2018.html</li>
+<li>2016: https://dblp.org/db/conf/naacl/naacl2016.html</li>
+<li>2015: https://dblp.org/db/conf/naacl/naacl2015.html</li>
+<li>2013: https://dblp.org/db/conf/naacl/naacl2013.html</li>
+<li>2012: https://dblp.org/db/conf/naacl/naacl2012.html</li>
+<li>2010: https://dblp.org/db/conf/naacl/naacl2010.html</li>
 </ul>
 </details>
 
 <details>
 <summary>ICML</summary>
 <ul>
-<li>23</li>
-<li>22</li>
-<li>21</li>
-<li>20</li>
-<li>19</li>
-<li>18</li>
-<li>17</li>
-<li>16</li>
-<li>15</li>
-<li>14</li>
-<li>13</li>
-<li>12</li>
-<li>11</li>
-<li>10</li>
+<li>2023: https://dblp.org/db/conf/icml/icml2023.html</li>
+<li>2022: https://dblp.org/db/conf/icml/icml2022.html</li>
+<li>2021: https://dblp.org/db/conf/icml/icml2021.html</li>
+<li>2020: https://dblp.org/db/conf/icml/icml2020.html</li>
+<li>2019: https://dblp.org/db/conf/icml/icml2019.html</li>
+<li>2018: https://dblp.org/db/conf/icml/icml2018.html</li>
+<li>2017: https://dblp.org/db/conf/icml/icml2017.html</li>
+<li>2016: https://dblp.org/db/conf/icml/icml2016.html</li>
+<li>2015: https://dblp.org/db/conf/icml/icml2015.html</li>
+<li>2014: https://dblp.org/db/conf/icml/icml2014.html</li>
+<li>2013: https://dblp.org/db/conf/icml/icml2013.html</li>
+<li>2012: https://dblp.org/db/conf/icml/icml2012.html</li>
+<li>2011: https://dblp.org/db/conf/icml/icml2011.html</li>
+<li>2010: https://dblp.org/db/conf/icml/icml2010.html</li>
 </ul>
 </details>
 
 <details>
 <summary>ICLR</summary>
 <ul>
-<li>23</li>
-<li>22</li>
-<li>21</li>
-<li>20</li>
-<li>19</li>
-<li>18</li>
-<li>17</li>
-<li>16</li>
-<li>15</li>
-<li>14</li>
-<li>13</li>
-<li>12</li>
-<li>11</li>
-<li>10</li>
+<li>2023: https://dblp.org/db/conf/iclr/iclr2023.html</li>
+<li>2022: https://dblp.org/db/conf/iclr/iclr2022.html</li>
+<li>2021: https://dblp.org/db/conf/iclr/iclr2021.html</li>
+<li>2020: https://dblp.org/db/conf/iclr/iclr2020.html</li>
+<li>2019: https://dblp.org/db/conf/iclr/iclr2019.html</li>
+<li>2018: https://dblp.org/db/conf/iclr/iclr2018.html</li>
+<li>2017: https://dblp.org/db/conf/iclr/iclr2017.html</li>
+<li>2016: https://dblp.org/db/conf/iclr/iclr2016.html</li>
+<li>2015: https://dblp.org/db/conf/iclr/iclr2015.html</li>
+<li>2014: https://dblp.org/db/conf/iclr/iclr2014.html</li>
+<li>2013: https://dblp.org/db/conf/iclr/iclr2013.html</li>
 </ul>
 </details>
 
 <details>
 <summary>NIPS</summary>
 <ul>
-<li>23</li>
-<li>22</li>
-<li>21</li>
-<li>20</li>
-<li>19</li>
-<li>18</li>
-<li>17</li>
-<li>16</li>
-<li>15</li>
-<li>14</li>
-<li>13</li>
-<li>12</li>
-<li>11</li>
-<li>10</li>
+<li>2023: https://dblp.org/db/conf/nips/neurips2023.html</li>
+<li>2022: https://dblp.org/db/conf/nips/neurips2022.html</li>
+<li>2021: https://dblp.org/db/conf/nips/neurips2021.html</li>
+<li>2020: https://dblp.org/db/conf/nips/neurips2020.html</li>
+<li>2019: https://dblp.org/db/conf/nips/neurips2019.html</li>
+<li>2018: https://dblp.org/db/conf/nips/neurips2018.html</li>
+<li>2017: https://dblp.org/db/conf/nips/neurips2017.html</li>
+<li>2016: https://dblp.org/db/conf/nips/neurips2016.html</li>
+<li>2015: https://dblp.org/db/conf/nips/neurips2015.html</li>
+<li>2014: https://dblp.org/db/conf/nips/neurips2014.html</li>
+<li>2013: https://dblp.org/db/conf/nips/neurips2013.html</li>
+<li>2012: https://dblp.org/db/conf/nips/neurips2012.html</li>
+<li>2011: https://dblp.org/db/conf/nips/neurips2011.html</li>
+<li>2010: https://dblp.org/db/conf/nips/neurips2010.html</li>
+
 </ul>
 </details>
 
