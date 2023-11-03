@@ -1,23 +1,76 @@
 This repository contains links to the main conference:
 
 <details>
-<summary>IR</summary>
+<summary>SIGIR</summary>
 <ul>
-<li>SIGIR 23</li>
-<li>SIGIR 22</li>
+<li>23</li>
+<li>22</li>
+<li>21</li>
+<li>20</li>
+<li>19</li>
+<li>18</li>
+<li>17</li>
+<li>16</li>
+<li>15</li>
+<li>14</li>
+<li>13</li>
+<li>12</li>
+<li>11</li>
+<li>10</li>
 </ul>
 </details>
 
 <details>
-<summary>NLP</summary>
+<summary>CIKM</summary>
 <ul>
-<li>ACL 23</li>
-<li>ACL 22</li>
+<li>23</li>
+<li>22</li>
+<li>21</li>
+<li>20</li>
+<li>19</li>
+<li>18</li>
+<li>17</li>
+<li>16</li>
+<li>15</li>
+<li>14</li>
+<li>13</li>
+<li>12</li>
+<li>11</li>
+<li>10</li>
 </ul>
 </details>
 
 <details>
-<summary>ML</summary>
+<summary>WSDM</summary>
+<ul>
+<li>23</li>
+<li>22</li>
+<li>21</li>
+<li>20</li>
+<li>19</li>
+<li>18</li>
+<li>17</li>
+<li>16</li>
+<li>15</li>
+<li>14</li>
+<li>13</li>
+<li>12</li>
+<li>11</li>
+<li>10</li>
+</ul>
+</details>
+
+
+<details>
+<summary>WWW</summary>
+<ul>
+<li>NeurIPS 23</li>
+<li>ICML 22</li>
+</ul>
+</details>
+
+<details>
+<summary>ACL</summary>
 <ul>
 <li>NeurIPS 23</li>
 <li>ICML 22</li>
@@ -25,8 +78,45 @@ This repository contains links to the main conference:
 </details>
 
 
+<details>
+<summary>EMNLP</summary>
+<ul>
+<li>NeurIPS 23</li>
+<li>ICML 22</li>
+</ul>
+</details>
 
+<details>
+<summary>NAACL</summary>
+<ul>
+<li>NeurIPS 23</li>
+<li>ICML 22</li>
+</ul>
+</details>
 
+<details>
+<summary>ICML</summary>
+<ul>
+<li>NeurIPS 23</li>
+<li>ICML 22</li>
+</ul>
+</details>
+
+<details>
+<summary>ICLR</summary>
+<ul>
+<li>NeurIPS 23</li>
+<li>ICML 22</li>
+</ul>
+</details>
+
+<details>
+<summary>NIPS</summary>
+<ul>
+<li>23</li>
+<li>22</li>
+</ul>
+</details>
 
 
 
