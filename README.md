@@ -2,27 +2,81 @@ This repository contains links to the main conference:
 
 <details>
 <summary>IR</summary>
+<details><summary>SIGIR</summary>
 <ul>
 <li>SIGIR 23</li>
 <li>SIGIR 22</li>
+<li>SIGIR 21</li>
 </ul>
+</details>
+<details><summary>CIKM</summary>
+<ul>
+<li>CIKM 23</li>
+<li>CIKM 22</li>
+<li>CIKM 21</li>
+</ul>
+</details>
+<details><summary>WSDM</summary>
+<ul>
+<li>WSDM 23</li>
+<li>WSDM 22</li>
+<li>WSDM 21</li>
+</ul>
+</details>
+<details><summary>WWW</summary>
+<ul>
+<li>WWW 23</li>
+<li>WWW 22</li>
+<li>WWW 21</li>
+</ul>
+</details>
 </details>
 
 <details>
 <summary>NLP</summary>
+<details><summary>ACL</summary>
 <ul>
 <li>ACL 23</li>
 <li>ACL 22</li>
+<li>ACL 21</li>
 </ul>
+</details>
+<details><summary>EMNLP</summary>
+<ul>
+<li>EMNLP 23</li>
+<li>EMNLP 22</li>
+<li>EMNLP 21</li>
+</ul>
+</details>
+<!-- You can continue adding more sub-conferences for NLP -->
 </details>
 
 <details>
 <summary>ML</summary>
+<details><summary>NeurIPS</summary>
 <ul>
 <li>NeurIPS 23</li>
-<li>ICML 22</li>
+<li>NeurIPS 22</li>
+<li>NeurIPS 21</li>
 </ul>
 </details>
+<details><summary>ICML</summary>
+<ul>
+<li>ICML 23</li>
+<li>ICML 22</li>
+<li>ICML 21</li>
+</ul>
+</details>
+<details><summary>ICLR</summary>
+<ul>
+<li>ICLR 23</li>
+<li>ICLR 22</li>
+<li>ICLR 21</li>
+</ul>
+</details>
+<!-- You can continue adding more sub-conferences for ML -->
+</details>
+
 
 
 
