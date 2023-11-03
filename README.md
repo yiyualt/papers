@@ -27,3 +27,15 @@ SIGIR 12: https://dblp.org/db/conf/sigir/sigir2012.html
 SIGIR 11: https://dblp.org/db/conf/sigir/sigir2011.html
 
 SIGIR 10: https://dblp.org/db/conf/sigir/sigir2010.html
+
+ACL 23: https://dblp.org/db/conf/acl/acl2023-1.html
+
+ACL 22: https://dblp.org/db/conf/acl/acl2022-1.html
+
+ACL 21: https://dblp.org/db/conf/acl/acl2021-1.html
+
+ACL 20: https://dblp.org/db/conf/acl/acl2020.html
+
+ACL 19: https://dblp.org/db/conf/acl/acl2019-1.html
+
+
